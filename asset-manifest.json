@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/robots-reactjs/static/css/main.abc231e8.chunk.css",
+    "main.js": "/robots-reactjs/static/js/main.59743e9d.chunk.js",
+    "main.js.map": "/robots-reactjs/static/js/main.59743e9d.chunk.js.map",
+    "runtime-main.js": "/robots-reactjs/static/js/runtime-main.cb7f59af.js",
+    "runtime-main.js.map": "/robots-reactjs/static/js/runtime-main.cb7f59af.js.map",
+    "static/js/2.c291a8ee.chunk.js": "/robots-reactjs/static/js/2.c291a8ee.chunk.js",
+    "static/js/2.c291a8ee.chunk.js.map": "/robots-reactjs/static/js/2.c291a8ee.chunk.js.map",
+    "index.html": "/robots-reactjs/index.html",
+    "precache-manifest.05579726c6cfadd1c1c63f8c1247f335.js": "/robots-reactjs/precache-manifest.05579726c6cfadd1c1c63f8c1247f335.js",
+    "service-worker.js": "/robots-reactjs/service-worker.js",
+    "static/css/main.abc231e8.chunk.css.map": "/robots-reactjs/static/css/main.abc231e8.chunk.css.map",
+    "static/js/2.c291a8ee.chunk.js.LICENSE.txt": "/robots-reactjs/static/js/2.c291a8ee.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cb7f59af.js",
+    "static/js/2.c291a8ee.chunk.js",
+    "static/css/main.abc231e8.chunk.css",
+    "static/js/main.59743e9d.chunk.js"
+  ]
+}
